@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="git.jpg"  />
+    <img src="git_mount.jpg"  />
 </p>
 
 # About Me
