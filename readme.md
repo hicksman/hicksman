@@ -4,3 +4,12 @@
 
 # About Me
 
+# My skills
+
+
+  - Apache Airflow
+  - Docker
+  - Python
+  - PostgreSQL
+  - Pandas
+  
