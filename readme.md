@@ -10,9 +10,10 @@ Experienced Data Engineer with 2 years of hands-on experience in designing and o
 ## My skills
 
 
-  - Apache Airflow
+  - Airflow
   - Docker
   - Python
   - PostgreSQL
   - Pandas
+  - Spark
   
