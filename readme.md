@@ -4,7 +4,7 @@
 
 # About me
 
-Experienced Data Engineer with 2 years of hands-on experience in designing and optimizing data processing pipelines. Proficient in Python, PostgreSQL and Pandas. Currently learning Hadoop and Spark to expand capabilities in big data.
+Data Engineer with 3 years of experience, specializing in Python and PostgreSQL. Proven track record in developing and supporting banking reporting systems (RBO). Proficient in building robust ETL pipelines and automating data collection via APIs using Apache Airflow.
 
 
 ## My skills
@@ -15,5 +15,5 @@ Experienced Data Engineer with 2 years of hands-on experience in designing and o
   - Python
   - PostgreSQL
   - Pandas
-  - Spark
+  - Rest API
   
