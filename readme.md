@@ -7,8 +7,16 @@
 
 
 ## My tech skills
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Docker?style=for-the-badge&logo=Docker&logoColor=white" /><br>
+<img src="https://skillicons.dev/icons?i=py,airflow,docker,postgres,pandas,dbt" /> <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=json&logoColor=white" /><br>
+</td>
+
 
   - Airflow
   - Docker
@@ -17,4 +25,13 @@
   - Pandas
   - Rest API
   - dbt
-  
+
+  ## IDE/GUI’s I like
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/-positron-61DAFB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+<img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+</p>
