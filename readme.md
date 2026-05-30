@@ -8,7 +8,7 @@
 
 ## My tech skills
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
-
+<img src="https://img.shields.io/badge/Docker?style=for-the-badge&logo=Docker&logoColor=white" /><br>
 
   - Airflow
   - Docker
