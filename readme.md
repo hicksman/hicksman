@@ -7,7 +7,10 @@
 
 ## 💻 My Tech Skills:
 
-[![Next.js, Svelte, Node., Python, Docker, PostgreSQL](https://skillicons.dev/icons?i=next,dbt, airflow, docker,postgres)](https://skillicons.dev)
+## 💻 My Tech Stack:
+
+[![Python, Airflow, Docker, PostgreSQL, Pandas, dbt](https://skillicons.dev/icons?i=py,airflow,docker,postgres,pandas,dbt)&perline=7](https://skillicons.dev)
+
 
 
 
