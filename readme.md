@@ -7,7 +7,7 @@
 
 
 ## My tech skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=Python&logoColor=3776AB" /><br>
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" /><br>
