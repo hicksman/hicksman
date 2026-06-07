@@ -4,7 +4,7 @@
 - Data Engineer with 4 years of experience, specializing in Python and SQL.
 - Experience in building ETL pipelines within the Fintech sector using Apache Airflow.
 - Developing and supporting RBO (SQL-reports for regulatory banking reporting systems). 
-- Currently learning PL/pgSQL fundamentals and continuously advancing Python skills.
+- Currently learning PL/SQL fundamentals and continuously advancing Python skills.
 
 
 ## My tech skills
